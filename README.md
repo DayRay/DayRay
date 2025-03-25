@@ -2,7 +2,7 @@
 
 **`Estudante de Sistemas da Informação`**
 
-Me chamo João Francisco, meu nome social é Lune, tenho 20 anos e sou natural de São Paulo, concluí o ensino médio na ETEC e atualmente estou cursando Sistemas da informação na UNIFAFIBE. Sou completamente apaixonado por tecnologia e programação principalmente voltada a áreas de entreterimento.
+Me chamo João Francisco, meu nome social é Lune, tenho 20 anos e sou natural de São Paulo, concluí o ensino médio na ETEC e atualmente estou cursando Sistemas da informação na UNIFAFIBE. Sou completamente apaixonado por tecnologia e programação principalmente voltada a áreas de entretenimento.
 
 ---
 
